@@ -1,4 +1,0 @@
-this is my first line
-modiying the line 2
-buggy line 2
-buggy line 3
