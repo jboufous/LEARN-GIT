@@ -1,3 +1,0 @@
-my first file - this is content from main !
-Adding line 2
-Adding line 3
