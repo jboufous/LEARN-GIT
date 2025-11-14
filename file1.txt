@@ -1,2 +1,4 @@
 this is my first line
-add second line
+modiying the line 2
+buggy kine2
+empty
